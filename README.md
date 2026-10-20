@@ -1,6 +1,6 @@
 # Mælaborð
 
-Fimmtíu mælar í anda Kurzgesagt fyrir hópaverkefni. Hver mælir er með raðnúmeri, fjögurra stafa kóða og 25 ljósum frá rauðu upp í grænt. Skjárinn sýnir stöðuna frá klukkan 09:00 til 14:00 þann 21.10.2026.
+„Hver er staðan?“ Fimmtíu mælar í anda Kurzgesagt sem sýna stigasöfnun hópa. Hver mælir er með raðnúmeri, fjögurra stafa kóða og 25 ljósum frá rauðu (1) upp í grænt (10). Skjárinn sýnir klukku og dagsetningu og hvenær stig verða næst uppfærð, á heila tímanum frá 10:00 til 14:00.
 
 ## Notkun
 
